@@ -1,4 +1,5 @@
 #Problem Solving Patterns
+
 -1 Frequency Counter
 -2 Multiple Counter
 -3 Sliding Window
