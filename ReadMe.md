@@ -13,3 +13,5 @@
 -6 Greedy Algorithm
 
 -7 Backtracking
+
+- 8 Two pointer
