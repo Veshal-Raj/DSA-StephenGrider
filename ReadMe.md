@@ -12,12 +12,6 @@
 
 - 6 Greedy Algorithm
 
-<<<<<<< HEAD
 - 7 Backtracking
 
 - 8 Two pointer
-=======
--7 Backtracking
-
-- 8 Two pointer
->>>>>>> 4b174c778dd87acd9be81ef75f8ab79477ce0760
