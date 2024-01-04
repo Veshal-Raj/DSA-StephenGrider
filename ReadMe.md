@@ -1,15 +1,17 @@
-#Problem Solving Patterns
+# Problem Solving Patterns
 
--1 Frequency Counter 
+- 1 Frequency Counter 
 
--2 Multiple Counter
+- 2 Multiple Counter
 
--3 Sliding Window
+- 3 Sliding Window
 
--4 Divide and Conquer
+- 4 Divide and Conquer
 
--5 Dynamic Programming
+- 5 Dynamic Programming
 
--6 Greedy Algorithm
+- 6 Greedy Algorithm
 
--7 Backtracking
+- 7 Backtracking
+
+- 8 Two pointer
